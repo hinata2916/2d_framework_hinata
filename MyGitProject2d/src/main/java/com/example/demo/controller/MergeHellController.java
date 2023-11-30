@@ -18,8 +18,6 @@ public class MergeHellController {
 		}
 
 
-
-
 		static void kadaiB() {
 	        Random random = new Random();
 	        
