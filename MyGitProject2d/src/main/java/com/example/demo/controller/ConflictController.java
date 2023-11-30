@@ -6,9 +6,8 @@ public class ConflictController {
 	//2
 	//3
 	
-<<<<<<< HEAD
-}
-=======
+
+
 	//4
 	//5
 	//6
@@ -19,4 +18,4 @@ public class ConflictController {
 
 }
 
->>>>>>> refs/remotes/origin/master
+
