@@ -1,3 +1,4 @@
+
 package com.example.demo.controller;
 
 import java.util.Random;
@@ -16,12 +17,12 @@ public class MergeHellController {
 	       
 			System.out.println(randomNumber + "が出ました");
 		}
-		static void kadaiC() {
-			int a = 50;
-			int b = 75;
-			int c = a + b;
-			System.out.println(c);
-		}
+
+
+	static void kadaiC() {
+		int a = 50;
+		int b = 75;
+		int c = a + b;
+		System.out.println(c);
+	}
 }
-
-
