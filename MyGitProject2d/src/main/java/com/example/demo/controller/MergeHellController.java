@@ -14,8 +14,8 @@ public class MergeHellController {
 	
 	for(int i = 0; i <= 10; i++) {
 		System.out.println("現在i回目のループです");
-	}
 		}
+	}
 
 
 		static void kadaiB() {
